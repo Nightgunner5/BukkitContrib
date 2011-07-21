@@ -3,7 +3,7 @@ package org.bukkitcontrib.packet.listener;
 import net.minecraft.server.Packet;
 
 /**
- * @author Nightgunner5
+ * A packet listener
  */
 public interface Listener {
 	/**
